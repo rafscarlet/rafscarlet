@@ -1,6 +1,6 @@
 ## Raf's Github
 
-- 🌱 I’m currently an intern in cybersecurity.
+- 🌱 Wannabe Dev.
 - 🎨 Learning full-stack skills because programming is epic.
 - ⚡ Fun fact: A group of ferrets is called a business.
   
